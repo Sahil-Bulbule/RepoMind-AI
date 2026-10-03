@@ -94,8 +94,6 @@ The application uses **Retrieval-Augmented Generation (RAG)** to retrieve releva
                     │     AI Response     │
                     └─────────────────────┘
 
----
-
 ## 👨‍💻 Built By
 
 ### **Sahil Bulbule**
@@ -113,3 +111,5 @@ I'm passionate about building AI-powered applications that solve real-world prob
 If you found **Ask My GitHub** useful, consider giving the repository a ⭐
 
 **Built with by Sahil**
+
+---
