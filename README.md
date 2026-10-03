@@ -1,6 +1,6 @@
 # 🐙 Ask My GitHub
   
-> **Understand any codebase. Ask questions. Get answers from the source.**  
+> **Understand any codebase. Ask questions. Get answers from the source.**   
 
 Ask My GitHub is an AI-powered GitHub repository explorer that lets users explore repositories and ask natural-language questions about their codebase.
 
