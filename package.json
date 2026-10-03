@@ -1,0 +1,25 @@
+{
+  "name": "ask-my-github",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Turn any public GitHub profile into a conversational AI knowledge base with RAG.",
+  "scripts": {
+    "dev": "npm run dev:all",
+    "dev:all": "node scripts/start-dev.js",
+    "dev:backend": "python -m uvicorn backend.app.main:app --reload --host 0.0.0.0 --port 8000",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "test": "python -m pytest backend/tests -v"
+  },
+  "keywords": [
+    "github",
+    "rag",
+    "groq",
+    "chromadb",
+    "fastapi",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "Ask My GitHub Team",
+  "license": "MIT"
+}
