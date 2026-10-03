@@ -42,6 +42,24 @@ The application uses **Retrieval-Augmented Generation (RAG)** to retrieve releva
 
 ---
 
+## 👨‍💻 Built By
+
+### **Sahil Bulbule**
+
+**AI/ML Engineer • Generative AI Developer • RAG & Agentic AI Builder**
+
+I'm passionate about building AI-powered applications that solve real-world problems using Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG and Agentic AI.
+
+🔗 **GitHub:** [Sahil-Bulbule](https://github.com/Sahil-Bulbule)
+
+---
+
+### ⭐ Support
+
+If you found **Ask My GitHub** useful, consider giving the repository a ⭐
+
+**Built with by Sahil**
+
 ## 🏗️ How It Works
 
 ```text
@@ -93,23 +111,5 @@ The application uses **Retrieval-Augmented Generation (RAG)** to retrieve releva
                     ┌─────────────────────┐
                     │     AI Response     │
                     └─────────────────────┘
-
-## 👨‍💻 Built By
-
-### **Sahil Bulbule**
-
-**AI/ML Engineer • Generative AI Developer • RAG & Agentic AI Builder**
-
-I'm passionate about building AI-powered applications that solve real-world problems using Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG and Agentic AI.
-
-🔗 **GitHub:** [Sahil-Bulbule](https://github.com/Sahil-Bulbule)
-
----
-
-### ⭐ Support
-
-If you found **Ask My GitHub** useful, consider giving the repository a ⭐
-
-**Built with by Sahil**
 
 ---
