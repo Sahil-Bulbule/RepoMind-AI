@@ -8,7 +8,7 @@ Instead of manually searching through files, users can select a repository and a
 
 The application uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant repository context before generating an answer with an LLM.
 
----
+--- 
   
 ## ✨ Features 
   
