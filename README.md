@@ -10,7 +10,7 @@ The application uses **Retrieval-Augmented Generation (RAG)** to retrieve releva
 
 --- 
   
-## ✨ Features 
+## ✨ Features  
   
 - 🔎 **GitHub Repository Explorer**
   - Fetch and explore repositories using the GitHub API.
