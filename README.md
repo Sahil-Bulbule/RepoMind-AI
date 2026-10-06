@@ -11,7 +11,7 @@ The application uses **Retrieval-Augmented Generation (RAG)** to retrieve releva
 ---  
   
 ## ✨ Features  
-  
+    
 - 🔎 **GitHub Repository Explorer**
   - Fetch and explore repositories using the GitHub API.
   - View repository details, technologies, files and metadata.
